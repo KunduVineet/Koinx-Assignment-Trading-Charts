@@ -1,0 +1,17 @@
+/* TradingViewWidget.css */
+.tradingview-widget-container {
+    height: 610px; /* Default height */
+  }
+  
+  @media (max-width: 768px) {
+    .tradingview-widget-container {
+      height: 400px; /* Adjusted height for tablets */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .tradingview-widget-container {
+      height: 300px; /* Adjusted height for small screens */
+    }
+  }
+  
