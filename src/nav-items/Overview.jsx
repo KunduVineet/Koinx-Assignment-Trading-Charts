@@ -3,14 +3,14 @@ import Team from '../nav-items/Team';
 import About from '../nav-items/About';
 import Sentiments from '../nav-items/Sentiments';
 import Performance from '../nav-items/Performance';
-import Fundamentals from './Fundamentals';
+import Tokenomics from './Tokenomics';
 
 const Overview = () => {
   return (
     <div>
-      <Fundamentals />
       <Performance />
       <Sentiments />
+      <Tokenomics />
       <About />
       <Team />
     </div>
