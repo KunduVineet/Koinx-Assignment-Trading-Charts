@@ -27,8 +27,10 @@ const About = () => {
       <h1 className="text-4xl font-bold text-left text-blue-700 mb-8">Bitcoin Pricing Today</h1>
       <div className="mb-6">
         <p className="text-base text-left text-gray-800 leading-relaxed">
-          Bitcoin (BTC) is a decentralized digital currency that has been gaining worldwide attention for its volatility
-          and potential for significant returns. As the first cryptocurrency, Bitcoin has led the way for others to follow.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi velit eos, quia corrupti rem,
+            mollitia totam amet ut impedit, aut quisquam sapiente cumque sit eum. Commodi vel ipsa eos at nobis 
+            quibusdam quia eaque, natus ad harum nihil, quaerat illum porro labore placeat consequatur accusantium 
+            odit non reiciendis ducimus.
         </p>
       </div>
       <div className="mb-8">
@@ -46,11 +48,21 @@ const About = () => {
       <div className="mb-6">
         <h3 className="text-2xl font-semibold text-left text-gray-800">Why is Bitcoin Price Volatile?</h3>
         <p className="text-base text-left text-gray-800 leading-relaxed">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum expedita sunt illum, corporis eligendi nobis dolores veritatis. Dolore vel, eius voluptate omnis eveniet perferendis molestiae, repellat vitae sunt aliquam quod enim cupiditate voluptas architecto. Laudantium, ex? Sit labore quod, ad voluptas sapiente veniam totam corporis assumenda odio vel iusto, fugiat ipsam vero nulla, tenetur harum rem. Accusantium, placeat reprehenderit. Tenetur culpa ut id consequuntur velit quisquam, quidem, minima repellat ducimus ab, dolore delectus maiores? Quo eos modi possimus tempore voluptas. Dolorum temporibus alias cumque perferendis et totam dolor dolore doloribus fugit corporis est atque fuga, repudiandae quidem, repellendus, quibusdam necessitatibus?
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum expedita sunt illum, corporis eligendi nobis 
+          dolores veritatis. Dolore vel, eius voluptate omnis eveniet perferendis molestiae, repellat vitae sunt aliquam 
+          quod enim cupiditate voluptas architecto. Laudantium, ex? Sit labore quod, ad voluptas sapiente veniam totam corporis 
+          assumenda odio vel iusto, fugiat ipsam vero nulla, tenetur harum rem. Accusantium, placeat reprehenderit. Tenetur 
+          culpa ut id consequuntur velit quisquam, quidem, minima repellat ducimus ab, dolore delectus maiores? Quo eos 
+          modi possimus tempore voluptas. Dolorum temporibus alias cumque perferendis et totam dolor dolore doloribus fugit 
+          corporis est atque fuga, repudiandae quidem, repellendus, quibusdam necessitatibus?
         </p>
       </div>
       <div>
-        <h3 className="text-base text-left text-gray-800 leading-relaxed">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum impedit veritatis cum sunt necessitatibus sapiente repellat odit consequuntur vel, nemo tempore architecto odio molestiae ipsa, voluptate delectus sit, voluptates labore sed ratione dicta reiciendis itaque nulla! Sed, esse iusto ducimus nesciunt voluptas, labore distinctio enim sit quasi dignissimos debitis id.
+        <h3 className="text-base text-left text-gray-800 leading-relaxed">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum impedit veritatis cum sunt necessitatibus sapiente 
+            repellat odit consequuntur vel, nemo tempore architecto odio molestiae ipsa, voluptate delectus sit, voluptates labore 
+            sed ratione dicta reiciendis itaque nulla! Sed, esse iusto ducimus nesciunt voluptas, labore distinctio enim sit quasi 
+            dignissimos debitis id.
         </h3>
        
       </div>

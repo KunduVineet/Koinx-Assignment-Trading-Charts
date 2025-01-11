@@ -1,8 +1,7 @@
 import React, { useEffect, useRef, memo } from 'react';
 import Navbar from './Navbar';
 import Navbar2 from './Navbar2';
-import Team from '../nav-items/Team';
-import About from '../nav-items/About';
+import Overview from '../nav-items/Overview';
 
 function TradingViewWidget() {
     const container = useRef();
@@ -45,8 +44,8 @@ function TradingViewWidget() {
                 ></div>
             </div>
             <Navbar2 />
-            <Team />
-            <About />
+            <Overview />
+           
         </>
     );
 }

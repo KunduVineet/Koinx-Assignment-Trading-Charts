@@ -18,7 +18,7 @@ const Team = () => {
 
 return (
   <div className="p-4">
-    <h1 className="text-2xl font-bold mb-4">Team</h1>
+    <h1 className="text-3xl font-bold mb-4 text-left">Team</h1>
     <div className="mb-4 text-lg">
       In a corporate environment, a team is a diverse group of professionals who collaborate to achieve business objectives and drive organizational growth. Effective teamwork in the corporate world relies on clear communication, mutual respect, and a shared vision for success.
     </div>
