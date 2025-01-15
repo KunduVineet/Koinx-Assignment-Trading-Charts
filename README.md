@@ -72,6 +72,16 @@ This application integrates TradingView's advanced chart widget with various nav
 - `/sentiments` : Displays market sentiment analysis.
 - `/about` : Displays information about the project.
 
+## Screenshots
+Here are some of the Screenshots which are used for Reference. 
+![Screenshot 2025-01-15 171232](https://github.com/user-attachments/assets/43c60431-5e24-441b-ba31-dbb725a27c59)
+
+
+![Screenshot 2025-01-15 171250](https://github.com/user-attachments/assets/2f605e1f-3839-475c-b318-4c71a1c697c9)
+
+![Screenshot 2025-01-15 171307](https://github.com/user-attachments/assets/ab6d5114-06fc-4740-bdd1-387345090208)
+
+
 ## Contributing
 
 Feel free to fork the project, make your changes, and submit a pull request. Contributions are welcome!
